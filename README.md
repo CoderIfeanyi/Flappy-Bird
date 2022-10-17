@@ -1,7 +1,9 @@
-# Flappy-bird-python
+# Flappy Bird with python
 A basic Flappy Bird game made in Python
 
-I took the assets from https://github.com/zhaolingzhi/FlapPyBird-master | Credits to him
+I took the assets from https://github.com/zhaolingzhi/FlapPyBird-master | Credits to him:
+
+Credit also to @LeonMarks for the orignial  idea.
 
 ## Current State:
 ![Screenshot](https://github.com/LeonMarqs/Flappy-bird-python/blob/master/Screenshot_1.png)
